@@ -1,0 +1,468 @@
+﻿TY  - CONF
+AU  - Crea, S.
+AU  - De Rossi, S. M. M.
+AU  - Donati, M.
+AU  - Reberšek, P.
+AU  - Novak, D.
+AU  - Vitiello, N.
+AU  - Lenzi, T.
+AU  - Podobnik, J.
+AU  - Munih, M.
+AU  - Carrozza, M. C.
+PY  - 2012
+DA  - 2012//
+TI  - Development of gait segmentation methods for wearable foot pressure sensors
+BT  - Engineering in Medicine and Biology Society (EMBC)
+SP  - 5018
+EP  - 5021
+PB  - IEEE
+ID  - crea2012development
+ER  - 
+TY  - CONF
+AU  - Mannini, Andrea
+AU  - Sabatini, Angelo Maria
+PY  - 2011
+DA  - 2011//
+TI  - A hidden Markov model-based technique for gait segmentation using a foot-mounted gyroscope
+BT  - Engineering in Medicine and Biology Society, EMBC
+SP  - 4369
+EP  - 4373
+PB  - IEEE
+ID  - mannini2011hidden
+ER  - 
+TY  - CONF
+AU  - Kang, Dong Won
+AU  - Choi, Jin-Seung
+AU  - Kim, Han-Su
+AU  - Oh, Ho Sang
+AU  - Seo, Jeong Woo
+AU  - Lee, Jeong-Whan
+AU  - Tack, Gye Rae
+PY  - 2012
+DA  - 2012//
+TI  - Wireless gait event detection system based on single gyroscope
+BT  - Proceedings of the 6th International Conference on Ubiquitous Information Management and Communication
+SP  - 88
+PB  - ACM
+ID  - kang2012wireless
+ER  - 
+TY  - CONF
+AU  - Kong, Kyoungchul
+AU  - Tomizuka, Masayoshi
+PY  - 2008
+DA  - 2008//
+TI  - Smooth and continuous human gait phase detection based on foot pressure patterns
+BT  - Robotics and Automation, 2008. ICRA 2008. IEEE International Conference on
+SP  - 3678
+EP  - 3683
+PB  - IEEE
+ID  - kong2008smooth
+ER  - 
+TY  - JOUR
+AU  - Kong, Kyoungchul
+AU  - Tomizuka, Masayoshi
+PY  - 2009
+DA  - 2009//
+TI  - A gait monitoring system based on air pressure sensors embedded in a shoe
+JO  - IEEE/ASME Transactions on mechatronics
+SP  - 358
+EP  - 370
+VL  - 14
+IS  - 3
+PB  - IEEE
+ID  - kong2009gait
+ER  - 
+TY  - JOUR
+AU  - Perry, Jacquelin
+AU  - Burnfield, Judith M.
+PY  - 1993
+DA  - 1993//
+TI  - Gait analysis: normal and pathological function
+JO  - Developmental Medicine and Child Neurology
+SP  - 1122
+EP  - 1122
+VL  - 35
+PB  - MACKEITH PRESS
+ID  - perry1993gait
+ER  - 
+TY  - CONF
+AU  - Lin, Feng
+AU  - Song, Chen
+AU  - Xu, Xiaowei
+AU  - Cavuoto, Lora
+AU  - Xu, Wenyao
+PY  - 2016
+DA  - 2016//
+TI  - Sensing from the Bottom: Smart Insole Enabled Patient Handling Activity Recognition Through Manifold Learning
+BT  - Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+SP  - 254
+EP  - 263
+PB  - IEEE
+ID  - lin2016sensing
+ER  - 
+TY  - JOUR
+AU  - Noshadi, Hyduke
+AU  - Dabiri, Foad
+AU  - Ahmadian, Shaun
+AU  - Amini, Navid
+AU  - Sarrafzadeh, Majid
+PY  - 2013
+DA  - 2013//
+TI  - HERMES: mobile system for instability analysis and balance assessment
+JO  - ACM Transactions on Embedded Computing Systems (TECS)
+SP  - 57
+VL  - 12
+IS  - 1s
+PB  - ACM
+ID  - noshadi2013hermes
+ER  - 
+TY  - CONF
+AU  - Au, Lawrence K.
+AU  - Wu, Winston H.
+AU  - Batalin, Maxim A.
+AU  - McIntire, Dustin H.
+AU  - Kaiser, William J.
+PY  - 2007
+DA  - 2007//
+TI  - Microleap: Energy-aware wireless sensor platform for biomedical sensing applications
+BT  - Biomedical Circuits and Systems Conference. BIOCAS
+SP  - 158
+EP  - 162
+PB  - IEEE
+ID  - au2007microleap
+ER  - 
+TY  - JOUR
+AU  - Sazonov, Edward S.
+AU  - Fulk, George
+AU  - Hill, James
+AU  - Schutz, Yves
+AU  - Browning, Raymond
+PY  - 2011
+DA  - 2011//
+TI  - Monitoring of posture allocations and activities by a shoe-based wearable sensor
+JO  - IEEE Transactions on Biomedical Engineering
+SP  - 983
+EP  - 990
+VL  - 58
+IS  - 4
+PB  - IEEE
+ID  - sazonov2011monitoring
+ER  - 
+TY  - CONF
+AU  - De Santis, Adelmo
+AU  - Gambi, Ennio
+AU  - Montanini, Laura
+AU  - Raffaeli, Laura
+AU  - Spinsante, Susanna
+AU  - Rascioni, Giorgio
+PY  - 2014
+DA  - 2014//
+TI  - A simple object for elderly vitality monitoring: The smart insole
+BT  - Mechatronic and Embedded Systems and Applications (MESA), ASME
+SP  - 1
+EP  - 6
+PB  - IEEE
+ID  - de2014simple
+ER  - 
+TY  - CONF
+AU  - El Achkar, Christopher Moufawad
+AU  - Massé, Fabien
+AU  - Arami, Arash
+AU  - Aminian, Kamiar
+PY  - 2013
+DA  - 2013//
+TI  - Physical activity recognition via minimal in-shoes force sensor configuration
+BT  - Pervasive Computing Technologies for Healthcare
+SP  - 256
+EP  - 259
+PB  - ICST
+ID  - el2013physical
+ER  - 
+TY  - JOUR
+AU  - Holleczek, T.
+AU  - Ruegg, A.
+AU  - Harms, H.
+AU  - Troster, G.
+PY  - 2010
+DA  - 2010//
+TI  - Textile pressure sensors for sports applications 9th IEEE Sensors Conf
+JO  - Kona, HI
+ID  - holleczek2010textile
+ER  - 
+TY  - CONF
+AU  - Doppler, Jakob
+AU  - Holl, Gerald
+AU  - Ferscha, Alois
+AU  - Franz, Marquart
+AU  - Klein, Cornel
+AU  - dos Santos Rocha, Marcos
+AU  - Zeidler, Andreas
+PY  - 2009
+DA  - 2009//
+TI  - Variability in foot-worn sensor placement for activity recognition
+BT  - Wearable Computers, 2009. ISWC’09. International Symposium on
+SP  - 143
+EP  - 144
+PB  - IEEE
+ID  - doppler2009variability
+ER  - 
+TY  - CONF
+AU  - Ghobadi, Mostafa
+AU  - Esfahani, Ehsan T.
+PY  - 2014
+DA  - 2014//
+TI  - Foot-mounted inertial measurement unit for activity classification
+BT  - Engineering in Medicine and Biology Society, EMBC
+SP  - 6294
+EP  - 6297
+PB  - IEEE
+ID  - ghobadi2014foot
+ER  - 
+TY  - JOUR
+AU  - McCarthy, M. W.
+AU  - James, D. A.
+AU  - Lee, J. B.
+AU  - Rowlands, D. D.
+PY  - 2015
+DA  - 2015//
+TI  - Decision-tree-based human activity classification algorithm using single-channel foot-mounted gyroscope
+JO  - Electronics Letters
+SP  - 675
+EP  - 676
+VL  - 51
+IS  - 9
+PB  - IET
+ID  - mccarthy2015decision
+ER  - 
+TY  - CONF
+AU  - Drobny, Dieter
+AU  - Weiss, Malte
+AU  - Borchers, Jan
+PY  - 2009
+DA  - 2009//
+TI  - Saltate!: a sensor-based system to support dance beginners
+BT  - CHI’09 Extended Abstracts on Human Factors in Computing Systems
+SP  - 3943
+EP  - 3948
+PB  - ACM
+ID  - drobny2009saltate
+ER  - 
+TY  - CHAP
+AU  - Ugulino, Wallace
+AU  - Cardador, Débora
+AU  - Vega, Katia
+AU  - Velloso, Eduardo
+AU  - Milidiú, Ruy
+AU  - Fuks, Hugo
+PY  - 2012
+DA  - 2012//
+TI  - Wearable computing: Accelerometers’ data classification of body postures and movements
+BT  - Advances in Artificial Intelligence, SBIA
+SP  - 52
+EP  - 61
+PB  - Springer
+ID  - ugulino2012wearable
+ER  - 
+TY  - CONF
+AU  - Zhu, Chun
+AU  - Sheng, Weihua
+PY  - 2009
+DA  - 2009//
+TI  - Multi-sensor fusion for human daily activity recognition in robot-assisted living
+BT  - International conference on Human robot interaction
+SP  - 303
+EP  - 304
+PB  - ACM
+ID  - zhu2009multi
+ER  - 
+TY  - CONF
+AU  - Jiang, Xinlong
+AU  - Chen, Yiqiang
+AU  - Liu, Junfa
+AU  - Hayes, Gillian R.
+AU  - Hu, Lisha
+AU  - Shen, Jianfei
+PY  - 2016
+DA  - 2016//
+TI  - AIR: recognizing activity through IR-based distance sensing on feet
+BT  - International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct
+SP  - 97
+EP  - 100
+PB  - ACM
+ID  - jiang2016air
+ER  - 
+TY  - CONF
+AU  - Haescher, Marian
+AU  - Matthies, Denys JC
+AU  - Bieber, Gerald
+AU  - Urban, Bodo
+PY  - 2015
+DA  - 2015//
+TI  - Capwalk: A capacitive recognition of walking-based activities as a wearable assistive technology
+BT  - International Conference on PErvasive Technologies Related to Assistive Environments
+SP  - 35
+PB  - ACM
+ID  - haescher2015capwalk
+ER  - 
+TY  - JOUR
+AU  - Zhang, Zelun
+AU  - Poslad, Stefan
+PY  - 2014
+DA  - 2014//
+TI  - Improved use of foot force sensors and mobile phone GPS for mobility activity recognition
+JO  - IEEE Sensors Journal
+SP  - 4340
+EP  - 4347
+VL  - 14
+IS  - 12
+PB  - IEEE
+ID  - zhang2014improved
+ER  - 
+TY  - JOUR
+AU  - Lin, Feng
+AU  - Wang, Aosen
+AU  - Zhuang, Yan
+AU  - Tomita, Machiko R.
+AU  - Xu, Wenyao
+PY  - 2016
+DA  - 2016//
+TI  - Smart Insole: A Wearable Sensor Device for Unobtrusive Gait Monitoring in Daily Life
+JO  - IEEE Transactions on Industrial Informatics
+SP  - 2281
+EP  - 2291
+VL  - 12
+IS  - 6
+PB  - IEEE
+ID  - lin2016smart
+ER  - 
+TY  - JOUR
+AU  - Shu, Lin
+AU  - Hua, Tao
+AU  - Wang, Yangyong
+AU  - Li, Qiao
+AU  - Feng, David Dagan
+AU  - Tao, Xiaoming
+PY  - 2010
+DA  - 2010//
+TI  - In-shoe plantar pressure measurement and analysis system based on fabric pressure sensing array
+JO  - IEEE Transactions on Information Technology in Biomedicine
+SP  - 767
+EP  - 775
+VL  - 14
+IS  - 3
+PB  - IEEE
+ID  - shu2010shoe
+ER  - 
+TY  - CONF
+AU  - Maziewski, Przemysław
+AU  - Kupryjanow, Adam
+AU  - Kaszuba, Katarzyna
+AU  - Czyżewski, Andrzej
+PY  - 2009
+DA  - 2009//
+TI  - Accelerometer signal pre-processing influence on human activity recognition
+BT  - Signal Processing Algorithms, Architectures, Arrangements, and Applications Conference Proceedings (SPA)
+SP  - 95
+EP  - 99
+PB  - IEEE
+ID  - maziewski2009accelerometer
+ER  - 
+TY  - JOUR
+AU  - Banos, Oresti
+AU  - Galvez, Juan-Manuel
+AU  - Damas, Miguel
+AU  - Pomares, Hector
+AU  - Rojas, Ignacio
+PY  - 2014
+DA  - 2014//
+TI  - Window size impact in human activity recognition
+JO  - Sensors
+SP  - 6474
+EP  - 6499
+VL  - 14
+IS  - 4
+PB  - Multidisciplinary Digital Publishing Institute
+ID  - banos2014window
+ER  - 
+TY  - JOUR
+AU  - Harasimowicz, Adam
+AU  - Dziubich, Tomasz
+AU  - Brzeski, Adam
+PY  - 2014
+DA  - 2014//
+TI  - Accelerometer-based Human Activity Recognition and the Impact of the Sample Size
+JO  - Advances in Neural Networks, Fuzzy Systems and Artificial Intelligence
+SP  - 130
+EP  - 135
+ID  - harasimowicz2014accelerometer
+ER  - 
+TY  - JOUR
+AU  - Lara, Oscar D.
+AU  - Labrador, Miguel A.
+PY  - 2013
+DA  - 2013//
+TI  - A survey on human activity recognition using wearable sensors.
+JO  - IEEE Communications Surveys and Tutorials
+SP  - 1192
+EP  - 1209
+VL  - 15
+IS  - 3
+ID  - lara2013survey
+ER  - 
+TY  - CONF
+AU  - Manupibul, Udomporn
+AU  - Charoensuk, Warakorn
+AU  - Kaimuk, Panya
+PY  - 2014
+DA  - 2014//
+TI  - Design and development of SMART insole system for plantar pressure measurement in imbalance human body and heavy activities
+BT  - Biomedical Engineering International Conference (BMEiCON), 2014 7th
+SP  - 1
+EP  - 5
+PB  - IEEE
+ID  - manupibul2014design
+ER  - 
+TY  - CONF
+AU  - Xue, Yang
+AU  - Jin, Lianwen
+PY  - 2010
+DA  - 2010//
+TI  - A naturalistic 3D acceleration-based activity dataset & benchmark evaluations
+BT  - Systems Man and Cybernetics (SMC), 2010 IEEE International Conference on
+SP  - 4081
+EP  - 4085
+PB  - IEEE
+ID  - xue2010naturalistic
+ER  - 
+TY  - JOUR
+AU  - Hall, M. A.
+PY  - 1998
+DA  - 1998//
+TI  - Correlation-based feature subset selection for machine learning
+JO  - Thesis submitted in partial fulfillment of the requirements of the degree of Doctor of Philosophy at the University of Waikato
+ID  - hall1998correlation
+ER  - 
+TY  - CONF
+AU  - Fukahori, Koumei
+AU  - Sakamoto, Daisuke
+AU  - Igarashi, Takeo
+PY  - 2015
+DA  - 2015//
+TI  - Exploring Subtle Foot Plantar-based Gestures with Sock-placed Pressure Sensors
+BT  - Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems
+SP  - 3019
+EP  - 3028
+PB  - ACM
+ID  - fukahori2015exploring
+ER  - 
+TY  - CONF
+AU  - Matthies, Denys JC
+AU  - Roumen, Thijs
+AU  - Kuijper, Arjan
+AU  - Urban, Bodo
+PY  - 2017
+DA  - 2017//
+TI  - CapSoles: who is walking on what kind of floor?
+BT  - Proceedings of 19th International Conference on Human-Computer Interaction with Mobile Devices and Services
+ID  - matthies2017capsoles
+ER  - 
